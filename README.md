@@ -21,5 +21,5 @@ View as a [web page](https://rngoodman.github.io/research-paper-code/) or [Githu
 ### [Molecular mechanisms of re-emerging chloramphenicol susceptibility in extended-spectrum beta-lactamase-producing Enterobacterales](https://doi.org/10.1038/s41467-024-53391-2)
 *Graf, F.E., Goodman, R.N., Gallichan, S. et al. **Nature Communications** 15, 9019 (2024). https://doi.org/10.1038/s41467-024-53391-2*
 
-- [Repository of code for paper](https://github.com/FEGraf/CHL-Malawi)
+> [Repository of code for paper](https://github.com/FEGraf/CHL-Malawi)
 * [Figure 4](https://github.com/FEGraf/CHL-Malawi/tree/main/Fig4_and_SFig7_Co_occurence_analysis)) - Co-occurence analysis
