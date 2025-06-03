@@ -8,6 +8,7 @@ View as a [web page](https://rngoodman.github.io/research-paper-code/) or [Githu
 
 ### 🔘 [Genomic comparison of highly related pairs of E. coli and K. pneumoniae isolated from faeces and blood of the same neonatal patients hospitalized with fever in Dar es Salaam, Tanzania](https://doi.org/10.1101/2025.04.28.650962)
 *Richard N. Goodman, Sabrina J. Moyo, Ilinca Memelis, Aakash Khanijau, Joel Manyahi, Upendo O. Kibwana, Said Aboud, Bjørn Blomberg, Nina Langeland, Adam P. Roberts*
+
 *bioRxiv 2025.04.28.650962; doi: https://doi.org/10.1101/2025.04.28.650962*
 
 - [Repository of code for paper](https://github.com/rngoodman/blood-faecal-genomic-comparison)
