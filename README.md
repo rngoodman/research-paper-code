@@ -19,6 +19,12 @@ bioRxiv 2025.04.28.650962; doi: https://doi.org/10.1101/2025.04.28.650962*
 
 ## 2024
 
+### 🔘 [Molecular mechanisms of re-emerging chloramphenicol susceptibility in extended-spectrum beta-lactamase-producing Enterobacterales](https://doi.org/10.1038/s41467-024-53391-2)
+*Graf, F.E., Goodman, R.N., Gallichan, S. et al.
+Nat Commun 15, 9019 (2024). https://doi.org/10.1038/s41467-024-53391-2*
+
+- [Repository of code for paper](https://github.com/FEGraf/CHL-Malawi)
+
 
 
 
