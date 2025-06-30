@@ -6,6 +6,14 @@ View as a [web page](https://rngoodman.github.io/research-paper-code/) or [Githu
 
 ## 2025
 
+### [Shotgun metagenomic analysis of the oral microbiomes of children with noma reveals a novel disease-associated organism](https://doi.org/10.1101/2025.06.24.661267)
+Michael Olaleye, Angus M O'Ferrall, **Richard N. Goodman**, Deogracia W Kabila, Miriam Peters, Gregoire Falq, Joseph Samuel, Donal Doyle, Diana Gomez, Gbemisola Oloruntuyi, Shafiu Isah, Adeniyi S Adetunji, Elise N. Farley, Nicholas J Evans, Mark Sherlock, Adam P. Roberts, Mohana Amirtharajah, Stuart Ainsworth **bioRxiv**  2025.06.24.661267; doi: https://doi.org/10.1101/2025.06.24.661267
+
+> [Repository of code for paper](https://github.com/rngoodman/noma-metagenomics)
+* [Within Noma dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Noma_swab_vs_saliva.html)
+* [Within healthy dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Healthy_vs_healthy.html)
+* [Noma vs healthy dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Noma_vs_healthy.html)
+
 ### [Genomic comparison of highly related pairs of E. coli and K. pneumoniae isolated from faeces and blood of the same neonatal patients hospitalized with fever in Dar es Salaam, Tanzania](https://doi.org/10.1101/2025.04.28.650962)
 **Richard N. Goodman**, Sabrina J. Moyo, Ilinca Memelis, Aakash Khanijau, Joel Manyahi, Upendo O. Kibwana, Said Aboud, Bjørn Blomberg, Nina Langeland, Adam P. Roberts. **bioRxiv** 2025.04.28.650962; doi: https://doi.org/10.1101/2025.04.28.650962
 
@@ -15,6 +23,8 @@ View as a [web page](https://rngoodman.github.io/research-paper-code/) or [Githu
 * [Figure 3](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/3_variant_calling_heatmaps_with_breseq.html) - variant calling heatmaps with breseq
 * [Figure 4](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/4_circular_whole_genome_comparisons.html) - circular whole genome comparisons
 * [Figure 5](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/5_analysing_virulence_factor_determinants.html) - analysing virulence factor determinants
+
+/
 
 ## 2024
 
