@@ -24,8 +24,6 @@ Michael Olaleye, Angus M O'Ferrall, **Richard N. Goodman**, Deogracia W Kabila, 
 * [Figure 4](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/4_circular_whole_genome_comparisons.html) - circular whole genome comparisons
 * [Figure 5](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/5_analysing_virulence_factor_determinants.html) - analysing virulence factor determinants
 
-/
-
 ## 2024
 
 ### [Molecular mechanisms of re-emerging chloramphenicol susceptibility in extended-spectrum beta-lactamase-producing Enterobacterales](https://doi.org/10.1038/s41467-024-53391-2)
