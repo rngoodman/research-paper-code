@@ -10,9 +10,9 @@ View as a [web page](https://rngoodman.github.io/research-paper-code/) or [Githu
 Michael Olaleye, Angus M O'Ferrall, **Richard N. Goodman**, Deogracia W Kabila, Miriam Peters, Gregoire Falq, Joseph Samuel, Donal Doyle, Diana Gomez, Gbemisola Oloruntuyi, Shafiu Isah, Adeniyi S Adetunji, Elise N. Farley, Nicholas J Evans, Mark Sherlock, Adam P. Roberts, Mohana Amirtharajah, Stuart Ainsworth **bioRxiv**  2025.06.24.661267; doi: https://doi.org/10.1101/2025.06.24.661267
 
 > [Repository of code for paper](https://github.com/rngoodman/noma-metagenomics)
-* [Within Noma dataset analysis - Table 1B, Figure 1A, Figure S1](https://rngoodman.github.io/noma-metagenomics/code/Noma_swab_vs_saliva.html)
+> * [Table 1A, Figures 1B, 2 and 3, Figures S2-S4 - Noma vs healthy dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Noma_vs_healthy.html)
+* [Table 1B, Figure 1A, Figure S1 - Within Noma dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Noma_swab_vs_saliva.html)
 * [Within healthy dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Healthy_vs_healthy.html)
-* [Noma vs healthy dataset analysis - Table 1A, Figures 1B, 2 and 3, Figures S2-S4](https://rngoodman.github.io/noma-metagenomics/code/Noma_vs_healthy.html)
 
 ### [Genomic comparison of highly related pairs of E. coli and K. pneumoniae isolated from faeces and blood of the same neonatal patients hospitalized with fever in Dar es Salaam, Tanzania](https://doi.org/10.1101/2025.04.28.650962)
 **Richard N. Goodman**, Sabrina J. Moyo, Ilinca Memelis, Aakash Khanijau, Joel Manyahi, Upendo O. Kibwana, Said Aboud, Bjørn Blomberg, Nina Langeland, Adam P. Roberts. **bioRxiv** 2025.04.28.650962; doi: https://doi.org/10.1101/2025.04.28.650962
