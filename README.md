@@ -6,7 +6,7 @@ View as a [web page](https://rngoodman.github.io/research-paper-code/) or [Githu
 
 ## 2025
 
-## [Genomic investigation of ESBL-producing Escherichia coli reveals likely transmission within and between One Health sectors in Jakarta, Indonesia]()
+### [Genomic investigation of ESBL-producing *Escherichia coli* reveals likely transmission within and between One Health sectors in Jakarta, Indonesia]()
 Nelly Puspandari, Rahadian Pratama, Richard N. Goodman, Imron Suandy, S Sunarno, Efadeswarni, Tati Febriana, Dwi Febriyana, S. Sunarno, Desrina Sitompul, Asih Hartanti, Ageng Wiyatno, Shannon Quek, Simon Wagstaff, Adam P. Roberts and Thomas R.D. Weaver **unpublished**
 > [Repository of code for paper](https://github.com/rngoodman/trycycle-ESBL-E-jakarta/)
 * [Figure 2 - Geospatial distribution of STs across Jakarta](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_2_Geospatial_distribution_ST_across_Jakarta_Indonesia.html)
@@ -22,7 +22,7 @@ Michael Olaleye, Angus M O'Ferrall, **Richard N. Goodman**, Deogracia W Kabila, 
 * [Table 1B, Figure 1A, Figure S1 - Within Noma dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Noma_swab_vs_saliva.html)
 * [Within healthy dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Healthy_vs_healthy.html)
 
-### [Genomic comparison of highly related pairs of E. coli and K. pneumoniae isolated from faeces and blood of the same neonatal patients hospitalized with fever in Dar es Salaam, Tanzania](https://doi.org/10.1101/2025.04.28.650962)
+### [Genomic comparison of highly related pairs of *E. coli* and *K. pneumoniae* isolated from faeces and blood of the same neonatal patients hospitalised with fever in Dar es Salaam, Tanzania](https://doi.org/10.1101/2025.04.28.650962)
 **Richard N. Goodman**, Sabrina J. Moyo, Ilinca Memelis, Aakash Khanijau, Joel Manyahi, Upendo O. Kibwana, Said Aboud, Bjørn Blomberg, Nina Langeland, Adam P. Roberts. **bioRxiv** 2025.04.28.650962; doi: https://doi.org/10.1101/2025.04.28.650962
 
 > [Repository of code for paper](https://github.com/rngoodman/blood-faecal-genomic-comparison)
