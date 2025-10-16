@@ -7,7 +7,7 @@ View as a [web page](https://rngoodman.github.io/research-paper-code/) or [Githu
 ## 2025
 
 ### [Genomic investigation of ESBL-producing *Escherichia coli* reveals likely transmission within and between One Health sectors in Jakarta, Indonesia]()
-Nelly Puspandari, Rahadian Pratama, Richard N. Goodman, Imron Suandy, S Sunarno, Efadeswarni, Tati Febriana, Dwi Febriyana, S. Sunarno, Desrina Sitompul, Asih Hartanti, Ageng Wiyatno, Shannon Quek, Simon Wagstaff, Adam P. Roberts and Thomas R.D. Weaver **unpublished**
+Nelly Puspandari, Rahadian Pratama, **Richard N. Goodman**, Imron Suandy, S Sunarno, Efadeswarni, Tati Febriana, Dwi Febriyana, S. Sunarno, Desrina Sitompul, Asih Hartanti, Ageng Wiyatno, Shannon Quek, Simon Wagstaff, Adam P. Roberts and Thomas R.D. Weaver **unpublished**
 > [Repository of code for paper](https://github.com/rngoodman/trycycle-ESBL-E-jakarta/)
 * [Figure 2 - Geospatial distribution of STs across Jakarta](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_2_Geospatial_distribution_ST_across_Jakarta_Indonesia.html)
 * [Figure 4 - Geospatial mapping of waterways Jakarta Indonesia](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_4_Geospatial_mapping_of_waterways_Jakarta_Indonesia.html)
