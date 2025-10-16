@@ -6,6 +6,14 @@ View as a [web page](https://rngoodman.github.io/research-paper-code/) or [Githu
 
 ## 2025
 
+## [Genomic investigation of ESBL-producing Escherichia coli reveals likely transmission within and between One Health sectors in Jakarta, Indonesia]()
+Nelly Puspandari, Rahadian Pratama, Richard N. Goodman, Imron Suandy, S Sunarno, Efadeswarni, Tati Febriana, Dwi Febriyana, S. Sunarno, Desrina Sitompul, Asih Hartanti, Ageng Wiyatno, Shannon Quek, Simon Wagstaff, Adam P. Roberts and Thomas R.D. Weaver **unpublished**
+> [Repository of code for paper](https://github.com/rngoodman/trycycle-ESBL-E-jakarta/)
+* [Figure 2 - Geospatial distribution of STs across Jakarta](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_2_Geospatial_distribution_ST_across_Jakarta_Indonesia.html)
+* [Figure 4 - Geospatial mapping of waterways Jakarta Indonesia](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_4_Geospatial_mapping_of_waterways_Jakarta_Indonesia.html)
+* [Figure 3A - ANI/SNP matrix for specific STs](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_3A_ANI_SNP_matrix_for_specific_STs.html)
+* [Figure 3B - Geospatial plotting ANI strain distance](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_3B_Geospatial_plotting_ANI_strain_distance_Jakarta_Indonesia.html)
+
 ### [Shotgun metagenomic analysis of the oral microbiomes of children with noma reveals a novel disease-associated organism](https://doi.org/10.1101/2025.06.24.661267)
 Michael Olaleye, Angus M O'Ferrall, **Richard N. Goodman**, Deogracia W Kabila, Miriam Peters, Gregoire Falq, Joseph Samuel, Donal Doyle, Diana Gomez, Gbemisola Oloruntuyi, Shafiu Isah, Adeniyi S Adetunji, Elise N. Farley, Nicholas J Evans, Mark Sherlock, Adam P. Roberts, Mohana Amirtharajah, Stuart Ainsworth **bioRxiv**  2025.06.24.661267; doi: https://doi.org/10.1101/2025.06.24.661267
 
