@@ -6,8 +6,8 @@ View as a [web page](https://rngoodman.github.io/research-paper-code/) or [Githu
 
 ## 2025
 
-### [Genomic investigation of ESBL-producing *Escherichia coli* reveals likely transmission within and between One Health sectors in Jakarta, Indonesia]()
-Nelly Puspandari, Rahadian Pratama, **Richard N. Goodman**, Imron Suandy, S Sunarno, Efadeswarni, Tati Febriana, Dwi Febriyana, S. Sunarno, Desrina Sitompul, Asih Hartanti, Ageng Wiyatno, Shannon Quek, Simon Wagstaff, Adam P. Roberts and Thomas R.D. Weaver **unpublished**
+### [Genomic investigation of ESBL-producing *Escherichia coli* reveals likely transmission within and between One Health sectors in Jakarta, Indonesia](https://orcid.org/my-orcid?orcid=0009-0008-0578-789X#:~:text=10.21203/rs.3.rs%2D7825238/v1)
+Nelly Puspandari, Rahadian Pratama, **Richard N. Goodman**, Imron Suandy, S Sunarno, Efadeswarni, Tati Febriana, Dwi Febriyana, S. Sunarno, Desrina Sitompul, Asih Hartanti, Ageng Wiyatno, Shannon Quek, Simon Wagstaff, Adam P. Roberts and Thomas R.D. Weaver **Research Square *(preprint)***
 > [Repository of code for paper](https://github.com/rngoodman/trycycle-ESBL-E-jakarta/)
 * [Figure 2 - Geospatial distribution of STs across Jakarta](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_2_Geospatial_distribution_ST_across_Jakarta_Indonesia.html)
 * [Figure 4 - Geospatial mapping of waterways Jakarta Indonesia](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_4_Geospatial_mapping_of_waterways_Jakarta_Indonesia.html)
@@ -15,7 +15,7 @@ Nelly Puspandari, Rahadian Pratama, **Richard N. Goodman**, Imron Suandy, S Suna
 * [Figure 3B - Geospatial plotting ANI strain distance](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_3B_Geospatial_plotting_ANI_strain_distance_Jakarta_Indonesia.html)
 
 ### [Shotgun metagenomic analysis of the oral microbiomes of children with noma reveals a novel disease-associated organism](https://doi.org/10.1101/2025.06.24.661267)
-Michael Olaleye, Angus M O'Ferrall, **Richard N. Goodman**, Deogracia W Kabila, Miriam Peters, Gregoire Falq, Joseph Samuel, Donal Doyle, Diana Gomez, Gbemisola Oloruntuyi, Shafiu Isah, Adeniyi S Adetunji, Elise N. Farley, Nicholas J Evans, Mark Sherlock, Adam P. Roberts, Mohana Amirtharajah, Stuart Ainsworth **bioRxiv**  2025.06.24.661267; doi: https://doi.org/10.1101/2025.06.24.661267
+Michael Olaleye, Angus M O'Ferrall, **Richard N. Goodman**, Deogracia W Kabila, Miriam Peters, Gregoire Falq, Joseph Samuel, Donal Doyle, Diana Gomez, Gbemisola Oloruntuyi, Shafiu Isah, Adeniyi S Adetunji, Elise N. Farley, Nicholas J Evans, Mark Sherlock, Adam P. Roberts, Mohana Amirtharajah, Stuart Ainsworth **bioRxiv *(preprint)***  2025.06.24.661267; doi: https://doi.org/10.1101/2025.06.24.661267
 
 > [Repository of code for paper](https://github.com/rngoodman/noma-metagenomics)
 * [Table 1A, Figures 1B, 2 and 3, Figures S2-S4 - Noma vs healthy dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Noma_vs_healthy.html)
@@ -23,7 +23,7 @@ Michael Olaleye, Angus M O'Ferrall, **Richard N. Goodman**, Deogracia W Kabila, 
 * [Within healthy dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Healthy_vs_healthy.html)
 
 ### [Genomic comparison of highly related pairs of *E. coli* and *K. pneumoniae* isolated from faeces and blood of the same neonatal patients hospitalised with fever in Dar es Salaam, Tanzania](https://doi.org/10.1101/2025.04.28.650962)
-**Richard N. Goodman**, Sabrina J. Moyo, Ilinca Memelis, Aakash Khanijau, Joel Manyahi, Upendo O. Kibwana, Said Aboud, Bjørn Blomberg, Nina Langeland, Adam P. Roberts. **bioRxiv** 2025.04.28.650962; doi: https://doi.org/10.1101/2025.04.28.650962
+**Richard N. Goodman**, Sabrina J. Moyo, Ilinca Memelis, Aakash Khanijau, Joel Manyahi, Upendo O. Kibwana, Said Aboud, Bjørn Blomberg, Nina Langeland, Adam P. Roberts. **bioRxiv *(preprint)*** 2025.04.28.650962; doi: https://doi.org/10.1101/2025.04.28.650962
 
 > [Repository of code for paper](https://github.com/rngoodman/blood-faecal-genomic-comparison)
 * [Figure 1](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/1_ANI_and_SNP_distance_matrices.html) - ANI and SNP distance matrices
