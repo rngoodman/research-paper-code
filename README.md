@@ -6,6 +6,16 @@ View as a [web page](https://rngoodman.github.io/research-paper-code/) or [Githu
 
 ## 2025
 
+### [Comparative genomics of blood and faecal *E. coli* and *K. pneumoniae* isolates from neonates with bloodstream infections in Tanzania](https://doi.org/10.1038/s42003-025-09008-5)
+**Richard N. Goodman**, Sabrina J. Moyo, Ilinca Memelis, Aakash Khanijau, Joel Manyahi, Upendo O. Kibwana, Said Aboud, Bjørn Blomberg, Nina Langeland, Adam P. Roberts. **Communications Biology**  8, 1603 (2025), https://doi.org/10.1038/s42003-025-09008-5
+
+> [Repository of code for paper](https://github.com/rngoodman/blood-faecal-genomic-comparison)
+* [Figure 1](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/1_ANI_and_SNP_distance_matrices.html) - ANI and SNP distance matrices
+* [Figure 2](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/2-core_genome_phylogenetic_tree.html) - core genome phylogenetic tree
+* [Figure 3](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/3_variant_calling_heatmaps_with_breseq.html) - variant calling heatmaps with breseq
+* [Figure 4](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/4_circular_whole_genome_comparisons.html) - circular whole genome comparisons
+* [Figure 5](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/5_analysing_virulence_factor_determinants.html) - analysing virulence factor determinants
+
 ### [Genomic investigation of ESBL-producing *Escherichia coli* reveals likely transmission within and between One Health sectors in Jakarta, Indonesia](https://doi.org/10.21203/rs.3.rs-7825238/v1)
 Nelly Puspandari, Rahadian Pratama, **Richard N. Goodman**, Imron Suandy, S Sunarno, Efadeswarni, Tati Febriana, Dwi Febriyana, S. Sunarno, Desrina Sitompul, Asih Hartanti, Ageng Wiyatno, Shannon Quek, Simon Wagstaff, Adam P. Roberts and Thomas R.D. Weaver **Research Square *(preprint)***
 > [Repository of code for paper](https://github.com/rngoodman/trycycle-ESBL-E-jakarta/)
@@ -21,16 +31,6 @@ Michael Olaleye, Angus M O'Ferrall, **Richard N. Goodman**, Deogracia W Kabila, 
 * [Table 1A, Figures 1B, 2 and 3, Figures S2-S4 - Noma vs healthy dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Noma_vs_healthy.html)
 * [Table 1B, Figure 1A, Figure S1 - Within Noma dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Noma_swab_vs_saliva.html)
 * [Within healthy dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Healthy_vs_healthy.html)
-
-### [Genomic comparison of highly related pairs of *E. coli* and *K. pneumoniae* isolated from faeces and blood of the same neonatal patients hospitalised with fever in Dar es Salaam, Tanzania](https://doi.org/10.1101/2025.04.28.650962)
-**Richard N. Goodman**, Sabrina J. Moyo, Ilinca Memelis, Aakash Khanijau, Joel Manyahi, Upendo O. Kibwana, Said Aboud, Bjørn Blomberg, Nina Langeland, Adam P. Roberts. **bioRxiv *(preprint)*** 2025.04.28.650962; doi: https://doi.org/10.1101/2025.04.28.650962
-
-> [Repository of code for paper](https://github.com/rngoodman/blood-faecal-genomic-comparison)
-* [Figure 1](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/1_ANI_and_SNP_distance_matrices.html) - ANI and SNP distance matrices
-* [Figure 2](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/2-core_genome_phylogenetic_tree.html) - core genome phylogenetic tree
-* [Figure 3](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/3_variant_calling_heatmaps_with_breseq.html) - variant calling heatmaps with breseq
-* [Figure 4](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/4_circular_whole_genome_comparisons.html) - circular whole genome comparisons
-* [Figure 5](https://rngoodman.github.io/blood-faecal-genomic-comparison/vignettes/5_analysing_virulence_factor_determinants.html) - analysing virulence factor determinants
 
 ## 2024
 
