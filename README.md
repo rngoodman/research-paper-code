@@ -4,6 +4,17 @@
 
 View as a [web page](https://rngoodman.github.io/research-paper-code/) or [Github repository](https://github.com/rngoodman/research-paper-code).
 
+
+## 2026 
+
+### [Shotgun metagenomic analysis of the oral microbiomes of children with noma](https://doi.org/10.1371/journal.pntd.0014118)
+Michael Olaleye, Angus M O'Ferrall, **Richard N. Goodman**, Deogracia W Kabila, Miriam Peters, Gregoire Falq, Joseph Samuel, Donal Doyle, Diana Gomez, Gbemisola Oloruntuyi, Shafiu Isah, Adeniyi S Adetunji, Elise N. Farley, Nicholas J Evans, Mark Sherlock, Adam P. Roberts, Mohana Amirtharajah, Stuart Ainsworth **PLOS Neglected Tropical Diseases**  20(3): e0014118, https://doi.org/10.1101/2025.06.24.661267
+
+> [Repository of code for paper](https://github.com/rngoodman/noma-metagenomics)
+* [Table 1A, Figures 1B, 2 and 3, Figures S2-S4 - Noma vs healthy dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Noma_vs_healthy.html)
+* [Table 1B, Figure 1A, Figure S1 - Within Noma dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Noma_swab_vs_saliva.html)
+* [Within healthy dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Healthy_vs_healthy.html)
+
 ## 2025
 
 ### [Comparative genomics of blood and faecal *E. coli* and *K. pneumoniae* isolates from neonates with bloodstream infections in Tanzania](https://doi.org/10.1038/s42003-025-09008-5)
@@ -23,14 +34,6 @@ Nelly Puspandari, Rahadian Pratama, **Richard N. Goodman**, Imron Suandy, S Suna
 * [Figure 4 - Geospatial mapping of waterways Jakarta Indonesia](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_4_Geospatial_mapping_of_waterways_Jakarta_Indonesia.html)
 * [Figure 3A - ANI/SNP matrix for specific STs](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_3A_ANI_SNP_matrix_for_specific_STs.html)
 * [Figure 3B - Geospatial plotting ANI strain distance](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_3B_Geospatial_plotting_ANI_strain_distance_Jakarta_Indonesia.html)
-
-### [Shotgun metagenomic analysis of the oral microbiomes of children with noma reveals a novel disease-associated organism](https://doi.org/10.1101/2025.06.24.661267)
-Michael Olaleye, Angus M O'Ferrall, **Richard N. Goodman**, Deogracia W Kabila, Miriam Peters, Gregoire Falq, Joseph Samuel, Donal Doyle, Diana Gomez, Gbemisola Oloruntuyi, Shafiu Isah, Adeniyi S Adetunji, Elise N. Farley, Nicholas J Evans, Mark Sherlock, Adam P. Roberts, Mohana Amirtharajah, Stuart Ainsworth **bioRxiv *(preprint)***  2025.06.24.661267; doi: https://doi.org/10.1101/2025.06.24.661267
-
-> [Repository of code for paper](https://github.com/rngoodman/noma-metagenomics)
-* [Table 1A, Figures 1B, 2 and 3, Figures S2-S4 - Noma vs healthy dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Noma_vs_healthy.html)
-* [Table 1B, Figure 1A, Figure S1 - Within Noma dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Noma_swab_vs_saliva.html)
-* [Within healthy dataset analysis](https://rngoodman.github.io/noma-metagenomics/code/Healthy_vs_healthy.html)
 
 ## 2024
 
